@@ -19,3 +19,5 @@ In order to get a count of the number of people transistioning we just have to g
 For the sake of simplicity and easier representation we concatenate the cycle and stage into one column. Now we will call the first combination as 'source' and second combination as 'target' and the count as 'value'. This is the key block in our project because making the Sankey diagram is easy, preparing the data takes a lot of time.
 ### Step 4: Making the diagram:
 Now we have the final table ready, we just have to run the holeview.Sankey function and pass in our data. 
+![bokeh_plot (1)](https://github.com/lordchan/Sankey_Graph/assets/65250505/ba874ecc-23b8-46b1-9dcc-2129d5f39eae)
+
